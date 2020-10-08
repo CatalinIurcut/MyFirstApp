@@ -10,3 +10,9 @@ namespace MyFirstApp
         }
     }
 }
+namespace MyFirstApp
+{
+    class MyClass
+    {
+    }
+}
